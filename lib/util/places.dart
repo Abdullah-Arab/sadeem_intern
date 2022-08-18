@@ -1,77 +1,42 @@
 List places = [
   {
-    "name": "Hotel Dolah Amet & Suites",
+    "name": "فندق ما",
     "img": "assets/1.jpeg",
-    "price": r"$100/night",
-    "location": "London, England",
-    "details": "Pellentesque in ipsum id orci porta dapibus. "
-        "Nulla porttitor accumsan tincidunt. Donec rutrum "
-        "congue leo eget malesuada. "
-        "\n\nPraesent sapien massa, convallis a pellentesque "
-        "nec, egestas non nisi. Donec rutrum congue leo eget malesuada. "
-        "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. "
-        "Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. "
-        "\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. "
-        "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+    "price": r"$100/لليلة الواحدة",
+    "location": "مكان ما",
+    "details":
+        "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص",
   },
   {
-    "name": "Beach Mauris Blandit",
+    "name": "شاطئ ما",
     "img": "assets/2.jpeg",
-    "price": r"$100/night",
-    "location": "Lisbon, Portugal",
-    "details": "Pellentesque in ipsum id orci porta dapibus. "
-        "Nulla porttitor accumsan tincidunt. Donec rutrum "
-        "congue leo eget malesuada. "
-        "\nPraesent sapien massa, convallis a pellentesque "
-        "nec, egestas non nisi. Donec rutrum congue leo eget malesuada. "
-        "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. "
-        "Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. "
-        "\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. "
-        "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+    "price": r"$100/في الليلة",
+    "location": "بحر ما",
+    "details":
+        "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص",
   },
   {
-    "name": "Ipsum Restaurant",
+    "name": "مطعم",
     "img": "assets/3.jpeg",
-    "price": r"$100/night",
-    "location": "Paris, France",
-    "details": "Pellentesque in ipsum id orci porta dapibus. "
-        "Nulla porttitor accumsan tincidunt. Donec rutrum "
-        "congue leo eget malesuada. "
-        "\n\nPraesent sapien massa, convallis a pellentesque "
-        "nec, egestas non nisi. Donec rutrum congue leo eget malesuada. "
-        "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. "
-        "Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. "
-        "\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. "
-        "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+    "price": r"$100/في الليلة",
+    "location": "مكان ما",
+    "details":
+        "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص",
   },
   {
-    "name": "Curabitur Beach",
+    "name": "شط السندباد",
     "img": "assets/4.jpeg",
-    "price": r"$100/night",
-    "location": "Rome, Italy",
-    "details": "Pellentesque in ipsum id orci porta dapibus. "
-        "Nulla porttitor accumsan tincidunt. Donec rutrum "
-        "congue leo eget malesuada. "
-        "\nPraesent sapien massa, convallis a pellentesque "
-        "nec, egestas non nisi. Donec rutrum congue leo eget malesuada. "
-        "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. "
-        "Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. "
-        "\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. "
-        "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+    "price": r"$100/في الليلة",
+    "location": "طرابلس",
+    "details":
+        "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص",
   },
   {
-    "name": "Tincidunt Pool",
+    "name": "شواطئ المالديف",
     "img": "assets/5.jpeg",
-    "price": r"$100/night",
-    "location": "Madrid, Spain",
-    "details": "Pellentesque in ipsum id orci porta dapibus. "
-        "Nulla porttitor accumsan tincidunt. Donec rutrum "
-        "congue leo eget malesuada. "
-        "\nPraesent sapien massa, convallis a pellentesque "
-        "nec, egestas non nisi. Donec rutrum congue leo eget malesuada. "
-        "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. "
-        "Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. "
-        "\nCurabitur arcu erat, accumsan id imperdiet et, porttitor at sem. "
-        "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+    "price": r"$100/في الليلة",
+    "location": "جزر المالديف",
+    "details":
+        "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص",
   },
 ];
